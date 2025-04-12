@@ -54,21 +54,6 @@ g++ Elevator.cpp -o Elevator
 
 ---
 
-## 💻 Demo Snapshot
-
-```
-Please enter the name of the building: Skyview Plaza
-Please enter the name of the person entering the building: John
-Does the person have authorisation? If yes, enter y. Else, enter anything else: y
-Authorisation confirmed for John. Please enter!
-Please enter the location of the elevator being accessed: Lobby
-...
-Arrived at Floor 4.
-If you want to continue, please enter y, or press enter any other character to exit:
-```
-
----
-
 ## 🌱 Future Enhancements
 
 - 🖥️ GUI Integration with floor buttons and elevator panel  
